@@ -1,0 +1,2 @@
+﻿id,title,description
+1,Harmony,Harmony gives you an elegant and high level way to alter functionality in applications written in C#. It does this at runtime by monkey patching methods unlike other solutions that change the content of dll files.
